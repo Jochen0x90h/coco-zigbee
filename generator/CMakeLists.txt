@@ -1,0 +1,10 @@
+add_executable(generator
+	main.cpp
+)
+target_include_directories(generator
+	PRIVATE
+		..
+)
+target_link_libraries(generator
+	${PROJECT_NAME}
+)
