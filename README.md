@@ -3,7 +3,7 @@
 CoCo module for analyzing and generating packets of the Zigbee protocol
 
 ## Import
-Add coco-zigbee/\<version> to your conanfile where version corresponds to the git tags
+Add coco-zigbee/\<version> to your conanfile where version corresponds to a git tag.
 
 ## Features
 * Enums for analyzing and generating Zigbee packets
